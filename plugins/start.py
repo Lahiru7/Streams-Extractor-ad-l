@@ -24,7 +24,7 @@ async def start(client, message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/TroJanzHEX")
+                        "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/menakalahiru7")
                 ]
             ]
         ),
@@ -45,7 +45,7 @@ async def help(client, message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "⭕️ SUPPORT ⭕️", url="https://t.me/TroJanzSupport")
+                        "⭕️ SUPPORT ⭕️", url="https://t.me/ADL_Drama")
                 ]
             ]
         ),
@@ -66,7 +66,7 @@ async def about(client, message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/TroJanzHEX/Streams-Extractor")
+                        "SOURCE CODE", url="https://telegra.ph/file/f3a2aefab016e565b92fb.jpg")
                 ]
             ]
         ),
